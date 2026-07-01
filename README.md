@@ -37,7 +37,7 @@ The dataset contains patient information, including:
 
 - Total Patients KPI
 - Average Age KPI
-- Average Income KPI                                                       [Hospital Dashboard](Images/Dashboard.png)
+- Average Income KPI                                                       
 - Average Length of Stay KPI
 - Patients by Medical Condition
 - Gender Distribution
